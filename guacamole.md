@@ -3,7 +3,7 @@
 - Avocado 4
 -- Lemon
 - Lime
-- Salt 
+- Sal (2)t 
 - Ice
 
 # Instruction 
